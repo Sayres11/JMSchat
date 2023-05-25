@@ -18,4 +18,3 @@ In summary, the code establishes a JMS connection, creates a chat window, allows
 
 ## UPD:
 To run code you need to start JMS server.
-The server can be found in the lib folder
