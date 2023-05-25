@@ -14,3 +14,8 @@ This class represents the graphical user interface (GUI) window for the chat app
 This is the entry point of the application. It creates an instance of the Window class, initializing the chat window with a username.
 
 In summary, the code establishes a JMS connection, creates a chat window, allows users to send and receive messages, and displays them in the GUI.
+
+
+## UPD:
+To run code you need to start JMS server.
+The server can be found in the lib folder
